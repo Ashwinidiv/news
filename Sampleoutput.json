@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Pure Xbox"
+            },
+            "author": "Fraser Gilbert",
+            "title": "Live: Watch The Xbox Games Showcase 2023 Here - Pure Xbox",
+            "description": "It's time for the BIG one!",
+            "url": "https://www.purexbox.com/news/2023/06/live-watch-the-xbox-games-showcase-2023-here",
+            "urlToImage": "https://images.purexbox.com/f3b2d91473889/1280x720.jpg",
+            "publishedAt": "2023-06-11T15:00:00Z",
+            "content": "The Xbox Games Showcase 2023 has arrived! Today is the biggest day in the 2023 calendar for Team Xbox, with around 90 minutes of reveals set to take place from Xbox and Bethesda, followed by an epic … [+572 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Conor McGregor knocks out Heat mascot in bizarre promotion at NBA Finals - The Associated Press",
+            "description": "MIAMI (AP) — Former UFC champion Conor McGregor knocked out the Miami Heat mascot in a midgame bit that went wrong. Burnie — more specifically, the man who occupies Burnie's costume — briefly sought medical attention Friday night after taking two punches from…",
+            "url": "https://apnews.com/article/heat-mascot-conor-mcgregor-nba-finals-097557b5dd00685bb5cdc6d418f9bbe9",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/3b407c7303414083ac245c96d6307aab/3000.webp",
+            "publishedAt": "2023-06-11T12:10:25Z",
+            "content": "MIAMI (AP) Former UFC champion Conor McGregor knocked out the Miami Heat mascot in a midgame bit that went wrong.\r\nBurnie more specifically, the man who occupies Burnies costume briefly sought medica… [+1033 chars]"
+        }
+    ]
+}
